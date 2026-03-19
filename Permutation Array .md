@@ -19,8 +19,9 @@ The task is to return the maximum size among all such sets.
 ```
 /*
 program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-Developed by:HARIHARAN M
-RegisterNumber:  212224100019
+Developed by: Sujith A
+RegisterNumber: 212224230278
+
 */
 import java.util.*;
 public class ArrayNestingMain {
